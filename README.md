@@ -1,2 +1,1 @@
-# pitches_binder
-Looking at Binder
+# Showing Binder — Interactive Jupyter Notebooks
